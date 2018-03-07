@@ -103,6 +103,11 @@
             <a rel="nofollow" href="http://www.wedoqa.com/#selenium">WeDoQA</a> - 
             Selenium Automation, Custom Selenium Frameworks, Load testing using Selenium to simulate real usage.
         </li>
+        
+         <li>
+            <a rel="nofollow" href="http://5elementslearning.com">5 Elements Learning</a> -
+            Providing Selenium, Appium and BDD Training and Project Consultation in online and onsite mode.
+        </li>
     </ul>
 
     <h2>Commercial Training</h2>
